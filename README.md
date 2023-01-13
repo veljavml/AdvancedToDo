@@ -1,5 +1,15 @@
 # ToDo2
 
+# Main page
+![image](https://user-images.githubusercontent.com/111191947/212356371-bd825081-1938-4830-bedd-77822d0db7fd.png)
+
+# Main page on button click (adding tasks)
+
+![image](https://user-images.githubusercontent.com/111191947/212356528-7aff897e-aa17-4fc5-8e0c-07b320de864a.png)
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
 ## Development server
